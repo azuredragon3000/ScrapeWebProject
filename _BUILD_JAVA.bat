@@ -1,0 +1,2 @@
+javac UpdateAndroidProject.java
+pause
